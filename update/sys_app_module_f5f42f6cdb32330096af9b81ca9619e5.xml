@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="NeedIt">bdf42f6cdb32330096af9b81ca9619e2</application>
+        <application/>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -28,9 +28,9 @@
         <sys_mod_count>2</sys_mod_count>
         <sys_name>All</sys_name>
         <sys_overrides/>
-        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_package display_value="NeedIt_Test" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
-        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope display_value="NeedIt_Test">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_app_module_f5f42f6cdb32330096af9b81ca9619e5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-07-19 13:51:32</sys_updated_on>
